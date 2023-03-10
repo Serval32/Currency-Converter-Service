@@ -1,0 +1,28 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 112 ciObject found
+ciInstanceKlass java/util/Iterator 1 1 53 100 1 8 1 10 12 1 1 10 100 12 1 1 1 11 100 12 1 1 1 11 12 1 1 11 100 12 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+instanceKlass jdk/internal/util/ArraysSupport
+instanceKlass sun/net/util/IPAddressUtil
+instanceKlass java/net/URLStreamHandler
+instanceKlass sun/net/www/ParseUtil
+instanceKlass java/net/URL$3
+instanceKlass jdk/internal/access/JavaNetURLAccess
+instanceKlass java/net/URL$DefaultFactory
+instanceKlass java/net/URLStreamHandlerFactory
+instanceKlass jdk/internal/loader/URLClassPath
+instanceKlass java/security/Principal
+instanceKlass java/security/ProtectionDomain$Key
+instanceKlass java/security/ProtectionDomain$JavaSecurityAccessImpl
+instanceKlass jdk/internal/access/JavaSecurityAccess
+instanceKlass java/lang/ClassLoader$ParallelLoaders
+instanceKlass jdk/internal/loader/AbstractClassLoaderValue
+instanceKlass jdk/internal/module/ServicesCatalog
+instanceKlass jdk/internal/loader/BootLoader
+instanceKlass java/util/Optional
+instanceKlass jdk/internal/module/ModuleBootstrap$Counters
+instanceKlass jdk/internal/module/SystemModuleFinders$SystemModuleFinder
+instanceKlass java/lang/module/ModuleFinder
+instanceKlass jdk/internal/module/SystemModuleFinders$3
+instanceKlass jdk/internal/module/ModuleHashes$HashSupplier
